@@ -23,3 +23,8 @@ RESULTS FOR TARGET PREDICTION:
 RESULTS FOR TYPE PREDICTION:
 
 ![image](https://github.com/user-attachments/assets/8a9bd941-7b66-4073-8ae2-9917acdaa776)
+
+
+EXPLAINABLE Ai (LIME):
+
+![image](https://github.com/user-attachments/assets/6c5e9238-5e72-43df-8f29-7b060c237eb2)
